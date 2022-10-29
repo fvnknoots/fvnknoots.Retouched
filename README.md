@@ -56,7 +56,7 @@ Change summary
 | Gravity star   | Pull time reduced by 33% (2.0 -> 1.33)                                            |
 | Electric smoke | Damage radius (both inner and outer) increased by 1 meter (50 -> 100, 210 -> 250) |
 
-#### Pilot classes
+### Pilot classes
 
 | Class  | Change                   |
 |--------|--------------------------|
