@@ -52,7 +52,7 @@ Change summary
 
   | Tactical | Change                   |
   |----------|--------------------------|
-  |  A-Wall  | Shield health 850 -> 450 |
+  |  A-Wall  | Shield health 850 -> 400 |
 
 ### Ordnances
 
