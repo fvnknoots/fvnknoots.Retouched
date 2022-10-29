@@ -4,11 +4,12 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
         "SMGs: around -50% damage",
         "R201/R101/Flatline/Spitfire/EVA-8/RE-45/P2016: around -25% damage",
         "Gravity star: -33% pull time",
+        "Electric smoke: +25% radius",
         "Melee: 70 damage"
     ],
     [
         "Goals",
-        "1. Not a perfect rebalance, just vanilla but a little less so",
+        "1. Not a perfect rebalance, just vanilla but a little less annoying",
         "2. Nerfing stronger weapons a little, but leaving rest be",
         "3. Minimal changes preferred, like damage only for guns"
     ],
@@ -82,6 +83,11 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
     [
         "Grav",
         "Pull time: 2.0s -> 1.33s (-33%)"
+    ],
+    [
+        "Smoke",
+        "Inner radius: 50 -> 100 (1 -> 2 meters)",
+        "Outer radius: 210 -> 250 (4 -> 5 meters)"
     ],
     [
         "Melee",

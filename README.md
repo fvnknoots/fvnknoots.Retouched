@@ -50,9 +50,10 @@ Change summary
 
 ### Ordnances
 
-| Ordnance     | Change                                  |
-|--------------|-----------------------------------------|
-| Gravity star | Pull time reduced by -33% (2.0 -> 1.33) |
+| Ordnance       | Change                                                                     |
+|----------------|----------------------------------------------------------------------------|
+| Gravity star   | Pull time reduced by 33% (2.0 -> 1.33)                                     |
+| Electric smoke | Radius (both inner and outer) increased by 1 meter (50 -> 100, 210 -> 250) |
 
 #### Notes
 
