@@ -56,6 +56,12 @@ Change summary
 | Gravity star   | Pull time reduced by 33% (2.0 -> 1.33)                                            |
 | Electric smoke | Damage radius (both inner and outer) increased by 1 meter (50 -> 100, 210 -> 250) |
 
+#### Pilot classes
+
+| Class  | Change                   |
+|--------|--------------------------|
+| A-Wall | Shield health 850 -> 450 |
+
 #### Notes
 
   * Gravity star is still good if user aims more quickly, while being slightly less annoying for the victim
