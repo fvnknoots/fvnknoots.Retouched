@@ -1,4 +1,4 @@
-Northstar.Retouched (work in progress)
+fvnknoots.Retouched (work in progress)
 ================================================================================
 
 Vanilla balance, just less so.
@@ -18,6 +18,7 @@ For now:
 
   1. Changing 1 value only per item (eg. damage for guns, pull time for gravity star, etc.)
   2. No primary gun changes on top of SMGs, R201/101, Flatline, EVA-8 and Spitfire
+  3. No titan changes
 
 Change summary
 --------------------------------------------------------------------------------
