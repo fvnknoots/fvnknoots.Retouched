@@ -4,7 +4,7 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
         "SMGs: around -50% damage",
         "R201/R101/Flatline/Spitfire/EVA-8/RE-45/P2016: around -25% damage",
         "Gravity star: -33% pull time",
-        "Electric smoke: +25% radius",
+        "Electric smoke: +25% damage radius",
         "Melee: 70 damage"
     ],
     [
@@ -86,8 +86,8 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
     ],
     [
         "Smoke",
-        "Inner radius: 50 -> 100 (1 -> 2 meters)",
-        "Outer radius: 210 -> 250 (4 -> 5 meters)"
+        "Inner damage radius: 50 -> 100 (1 -> 2 meters)",
+        "Outer damage radius: 210 -> 250 (4 -> 5 meters)"
     ],
     [
         "Melee",
