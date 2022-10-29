@@ -54,7 +54,7 @@ Change summary
 |--------------|-----------------------------------------|
 | Gravity star | Pull time reduced by -33% (2.0 -> 1.33) |
 
-#### Pilot classes
+### Pilot classes
 
 | Class  | Change                   |
 |--------|--------------------------|
