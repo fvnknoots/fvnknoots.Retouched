@@ -1,5 +1,3 @@
-global function Retouched_Init
-
 global array< array<string> > RETOUCHED_CHANGELIST = [
     [
         "Summary",
@@ -91,11 +89,6 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
     ],
     [
         "Github",
-        "github.com/fvnkhead/Northstar.Retouched"
+        "github.com/fvnknoots/fvnknoots.Retouched"
     ]
 ]
-
-void function Retouched_Init()
-{
-    SetConVarBool("retouched_loaded", true)
-}
