@@ -48,17 +48,17 @@ Change summary
   * ARs have near range damage decreased, but vanilla far ranges
   * Melee now needs to be used on a slightly damaged enemy
 
+### Tacticals
+
+  | Tactical | Change                   |
+  |----------|--------------------------|
+  |  A-Wall  | Shield health 850 -> 450 |
+
 ### Ordnances
 
 | Ordnance     | Change                                  |
 |--------------|-----------------------------------------|
 | Gravity star | Pull time reduced by -33% (2.0 -> 1.33) |
-
-### Pilot classes
-
-| Class  | Change                   |
-|--------|--------------------------|
-| A-Wall | Shield health 850 -> 450 |
 
 #### Notes
 
