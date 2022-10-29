@@ -81,6 +81,10 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
 
     ],
     [
+        "A-Wall",
+        "Shield health: 850 -> 400"
+    ],
+    [
         "Grav",
         "Pull time: 2.0s -> 1.33s (-33%)"
     ],
