@@ -3,6 +3,7 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
         "Summary",
         "SMGs: around -50% damage",
         "R201/R101/Flatline/Spitfire/EVA-8/RE-45/P2016: around -25% damage",
+        "A-Wall: -450 health"
         "Gravity star: -33% pull time",
         "Melee: 70 damage"
     ],
