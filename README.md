@@ -54,6 +54,12 @@ Change summary
 |--------------|-----------------------------------------|
 | Gravity star | Pull time reduced by -33% (2.0 -> 1.33) |
 
+#### Pilot classes
+
+| Class  | Change                   |
+|--------|--------------------------|
+| A-Wall | Shield health 850 -> 450 |
+
 #### Notes
 
   * Gravity star is still good if user aims more quickly, while being slightly less annoying for the victim
