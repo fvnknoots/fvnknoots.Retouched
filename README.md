@@ -51,9 +51,9 @@ Change summary
 
 ### Tacticals
 
-| Tactical | Change                   |
-|----------|--------------------------|
-|  A-Wall  | Shield health 850 -> 400 |
+| Tactical | Change                    |
+|----------|---------------------------|
+|  A-Wall  | Shield health 1000 -> 500 |
 
 #### Notes
 

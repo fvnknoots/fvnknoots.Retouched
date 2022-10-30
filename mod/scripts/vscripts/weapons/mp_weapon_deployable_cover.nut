@@ -16,7 +16,7 @@ const DEPLOYABLE_SHIELD_DURATION = 15.0
 
 const DEPLOYABLE_SHIELD_FX = $"P_pilot_cover_shield"
 const DEPLOYABLE_SHIELD_FX_AMPED = $"P_pilot_amped_shield"
-const DEPLOYABLE_SHIELD_HEALTH = 400 // CHANGE/NERF: 850 -> 400 (HP nerf)
+const DEPLOYABLE_SHIELD_HEALTH = 850
 
 const DEPLOYABLE_SHIELD_RADIUS = 84
 const DEPLOYABLE_SHIELD_HEIGHT = 89
@@ -192,8 +192,8 @@ void function DeployAmpedWall( entity grenade, vector origin, vector angles )
 	ampedWall.Hide()
 	ampedWall.SetTakeDamageType( DAMAGE_YES)
 	ampedWall.SetDamageNotifications( true )
-	ampedWall.SetMaxHealth( 1000 )
-	ampedWall.SetHealth( 1000 )
+	ampedWall.SetMaxHealth( 500 ) // CHANGE/NERF: 1000 -> 500 (A-Wall HP nerf)
+	ampedWall.SetHealth( 500 ) // CHANGE/NERF: 1000 -> 500 (A-Wall HP nerf)
 	ampedWall.EndSignal( "OnDestroy" )
 	SetVisibleEntitiesInConeQueriableEnabled( ampedWall, true )
 
