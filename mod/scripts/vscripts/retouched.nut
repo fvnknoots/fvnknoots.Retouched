@@ -12,7 +12,7 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
         "Goals",
         "1. Not a perfect rebalance, just vanilla but a little less annoying",
         "2. Nerfing top weapons a little, but leaving weaker/harder guns be",
-        "3. Buffing weakest tacticals and ordnances a little, while leavine the strongest be",
+        "3. Buffing weakest tacticals and ordnances a little, while leaving the strongest be",
         "4. Minimal changes preferred, like damage only for guns",
         "5. Avoiding unnecessary changes"
     ],
