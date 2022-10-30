@@ -51,9 +51,13 @@ Change summary
 
 ### Tacticals
 
-  | Tactical | Change                   |
-  |----------|--------------------------|
-  |  A-Wall  | Shield health 850 -> 400 |
+| Tactical | Change                   |
+|----------|--------------------------|
+|  A-Wall  | Shield health 850 -> 400 |
+
+#### Notes
+
+  * A-Wall can still tank a Kraber bullet, but not much more - lower HP should force the shield to be used more tactically, instead of being a camping tool
 
 ### Ordnances
 
