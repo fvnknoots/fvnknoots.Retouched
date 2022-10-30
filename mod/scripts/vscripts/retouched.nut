@@ -3,6 +3,7 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
         "Summary",
         "SMGs: around -50% damage",
         "R201/R101/Flatline/Spitfire/EVA-8/RE-45/P2016: around -25% damage",
+        "A-Wall: -50% shield health"
         "Gravity star: -33% pull time",
         "Electric smoke: +25% damage radius",
         "Melee: 70 damage"
@@ -10,8 +11,10 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
     [
         "Goals",
         "1. Not a perfect rebalance, just vanilla but a little less annoying",
-        "2. Nerfing stronger weapons a little, but leaving rest be",
-        "3. Minimal changes preferred, like damage only for guns"
+        "2. Nerfing top weapons a little, but leaving weaker/harder guns be",
+        "3. Buffing weakest tacticals and ordnances a little, while leaving the strongest be",
+        "4. Minimal changes preferred, like damage only for guns",
+        "5. Avoiding unnecessary changes"
     ],
     [
         "CAR",
@@ -79,6 +82,10 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
         "Far damage: 13 -> 12 (8 -> 9 bullets)"
         "Very far damage: 9 -> 8 (12 -> 13 bullets)"
 
+    ],
+    [
+        "A-Wall",
+        "Shield health: 1000 -> 500"
     ],
     [
         "Grav",

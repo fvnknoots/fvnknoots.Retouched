@@ -49,6 +49,16 @@ Change summary
   * ARs have near range damage decreased, but vanilla far ranges
   * Melee now needs to be used on a slightly damaged enemy
 
+### Tacticals
+
+| Tactical | Change                                     |
+|----------|--------------------------------------------|
+|  A-Wall  | Shield health reduced by 50% (1000 -> 500) |
+
+#### Notes
+
+  * A-Wall can still tank a Kraber bullet, but not much more - lower HP should force the shield to be used more tactically, instead of being a camping tool
+
 ### Ordnances
 
 | Ordnance       | Change                                                                            |
