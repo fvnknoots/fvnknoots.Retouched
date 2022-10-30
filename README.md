@@ -8,8 +8,9 @@ Goals
 
   1. Not a "perfect" rebalance
   2. Nerfing the top weapons a little, but leaving weaker/harder guns be so that players can still show off with them
-  3. Minimal changes
-  4. Avoiding _scope creep_ which causes unnecessary changes to accumulate
+  3. Buffing weakest ordnances and tacticals a little, while leaving the strongest alone.
+  4. Minimal changes
+  5. Avoiding _scope creep_ which causes unnecessary changes to accumulate
 
 Constraints
 --------------------------------------------------------------------------------
@@ -50,9 +51,10 @@ Change summary
 
 ### Ordnances
 
-| Ordnance     | Change                                  |
-|--------------|-----------------------------------------|
-| Gravity star | Pull time reduced by -33% (2.0 -> 1.33) |
+| Ordnance       | Change                                                                            |
+|----------------|-----------------------------------------------------------------------------------|
+| Gravity star   | Pull time reduced by 33% (2.0 -> 1.33)                                            |
+| Electric smoke | Damage radius (both inner and outer) increased by 1 meter (50 -> 100, 210 -> 250) |
 
 #### Notes
 
