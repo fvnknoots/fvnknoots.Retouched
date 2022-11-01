@@ -99,7 +99,7 @@ WeaponData
 		"explosion_damage_heavy_armor"					"800"
 		"npc_explosion_damage"							"150"
 		"npc_explosion_damage_heavy_armor"				"800"
-		"explosion_inner_radius"  						"100" // CHANGE/BUFF: 50 -> 100 (1m -> 2m)
+		"explosion_inner_radius"  						"200" // CHANGE/BUFF: 50 -> 200 (1m -> 4m)
 		"explosionradius" 								"250" // CHANGE/BUFF: 210 -> 250 (4m -> 5m)
 		"sound_weapon_ready"							"HUD_ordinance_meter_replenished_1P"
 	}

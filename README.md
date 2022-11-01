@@ -62,13 +62,14 @@ Change summary
 ### Ordnances
 
 | Ordnance       | Change                                                                            |
-|----------------|-----------------------------------------------------------------------------------|
-| Gravity star   | Pull time reduced by 33% (2.0 -> 1.33)                                            |
-| Electric smoke | Damage radius (both inner and outer) increased by 1 meter (50 -> 100, 210 -> 250) |
+|----------------|---------------------------------------------------------------------------------------|
+| Gravity star   | Pull time reduced by 33% (2.0 -> 1.33)                                               |
+| Electric smoke | Inner damage radius increased by 3 meters (50 -> 200), outer by 1 meter (210 -> 250) |
 
 #### Notes
 
   * Gravity star is still good if user aims more quickly, while being slightly less annoying for the victim
+  * Vanilla electric smoke doesn't work as the deterrent it's meant to be if pilots can just run through it, so the inner damage radius has been buffed considerably
 
 Development
 --------------------------------------------------------------------------------
