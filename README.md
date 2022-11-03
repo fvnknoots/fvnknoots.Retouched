@@ -57,11 +57,11 @@ Change summary
 
 #### Notes
 
-  * A-Wall can still tank a Kraber bullet, but not much more - lower HP should force the shield to be used more tactically, instead of being a camping tool.
+  * A-Wall can still tank a Kraber bullet, but not much more - lower HP should force the shield to be used more tactically, instead of being a camping tool. Lower HP also makes it so that the electric smoke is a convenient counter to it.
 
 ### Ordnances
 
-| Ordnance       | Change                                                                            |
+| Ordnance       | Change                                                                     |
 |----------------|----------------------------------------------------------------------------|
 | Gravity star   | Pull time reduced by 33% (2.0 -> 1.33)                                     |
 | Electric smoke | Radius (both inner and outer) increased by 1 meter (50 -> 100, 210 -> 250) |
