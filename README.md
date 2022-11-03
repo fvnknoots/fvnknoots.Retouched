@@ -6,20 +6,20 @@ Vanilla balance, just less so.
 Goals
 --------------------------------------------------------------------------------
 
-  1. Not a "perfect" rebalance
-  2. Nerfing the top weapons a little, but leaving weaker/harder guns be so that players can still show off with them
+  1. Not a "perfect" rebalance.
+  2. Nerfing the top weapons a little, but leaving weaker/harder guns be so that players can still show off with them.
   3. Buffing weakest ordnances and tacticals a little, while leaving the strongest alone.
-  4. Minimal changes
-  5. Avoiding _scope creep_ which causes unnecessary changes to accumulate
+  4. Minimal changes.
+  5. Avoiding _scope creep_ which causes unnecessary changes to accumulate.
 
 Constraints
 --------------------------------------------------------------------------------
 
 For now:
 
-  1. Changing 1 value only per item (eg. damage for guns, pull time for gravity star, etc.)
-  2. No primary gun changes on top of SMGs, R201/101, Flatline, EVA-8 and Spitfire
-  3. No titan changes
+  1. Changing 1 value only per item (eg. damage for guns, pull time for gravity star, etc.).
+  2. No primary gun changes on top of SMGs, R201/101, Flatline, EVA-8 and Spitfire.
+  3. No titan changes.
 
 Change summary
 --------------------------------------------------------------------------------
@@ -45,9 +45,9 @@ Change summary
 
 #### Notes
 
-  * SMGs and sidearms have decreased damage across all ranges
-  * ARs have near range damage decreased, but vanilla far ranges
-  * Melee now needs to be used on a slightly damaged enemy
+  * SMGs and sidearms have decreased damage across all ranges.
+  * ARs have near range damage decreased, but vanilla far ranges.
+  * Melee now needs to be used on a slightly damaged enemy.
 
 ### Tacticals
 
@@ -57,18 +57,20 @@ Change summary
 
 #### Notes
 
-  * A-Wall can still tank a Kraber bullet, but not much more - lower HP should force the shield to be used more tactically, instead of being a camping tool
+  * A-Wall can still tank a Kraber bullet, but not much more - lower HP should force the shield to be used more tactically, instead of being a camping tool.
 
 ### Ordnances
 
 | Ordnance       | Change                                                                            |
-|----------------|-----------------------------------------------------------------------------------|
-| Gravity star   | Pull time reduced by 33% (2.0 -> 1.33)                                            |
-| Electric smoke | Damage radius (both inner and outer) increased by 1 meter (50 -> 100, 210 -> 250) |
+|----------------|----------------------------------------------------------------------------|
+| Gravity star   | Pull time reduced by 33% (2.0 -> 1.33)                                     |
+| Electric smoke | Radius (both inner and outer) increased by 1 meter (50 -> 100, 210 -> 250) |
+| Arc grenade    | Radius (both inner and outer) increased by 1 meter (75 -> 125, 350 -> 400) |
 
 #### Notes
 
-  * Gravity star is still good if user aims more quickly, while being slightly less annoying for the victim
+  * Gravity star is still good if user aims more quickly, while being slightly less annoying for the victim.
+  * Electric smoke and arc grenade have a slightly larger effect radius because their purpose is for area control, not direct damage. It could be higher, but the increasing the size of the visual effect would require client mods.
 
 Development
 --------------------------------------------------------------------------------
