@@ -8,7 +8,7 @@ Goals
 
   1. Not a "perfect" rebalance.
   2. Nerfing the top weapons a little, but leaving weaker/harder guns be so that players can still show off with them.
-  3. Buffing weakest ordnances and tacticals a little, while leaving the strongest alone.
+  3. Buffing weakest ordnances and tacticals a little, while leaving the strongest alone (except A-Wall).
   4. Minimal changes.
   5. Avoiding _scope creep_ which causes unnecessary changes to accumulate.
 
