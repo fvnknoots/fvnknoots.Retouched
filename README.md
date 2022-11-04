@@ -70,7 +70,7 @@ Change summary
 #### Notes
 
   * Gravity star is still good if user aims more quickly, while being slightly less annoying for the victim.
-  * Electric smoke and arc grenade have a slightly larger effect radius because their purpose is for area control, not direct damage. It could be higher, but the increasing the size of the visual effect would require client mods.
+  * Electric smoke and arc grenade have a slightly larger effect radius because their purpose is for area control, not direct damage. They could be higher, but increasing the size of the visual effect would require client mods.
 
 Development
 --------------------------------------------------------------------------------
