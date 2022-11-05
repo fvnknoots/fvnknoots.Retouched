@@ -1,4 +1,4 @@
-fvnknoots.Retouched (work in progress)
+fvnknoots.Retouched
 ================================================================================
 
 Vanilla balance, just less so.
