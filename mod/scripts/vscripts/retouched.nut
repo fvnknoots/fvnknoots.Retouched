@@ -104,9 +104,5 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
     [
         "Melee",
         "Damage: 100 -> 70"
-    ],
-    [
-        "Github",
-        "github.com/fvnknoots/fvnknoots.Retouched"
     ]
 ]
