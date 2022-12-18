@@ -51,13 +51,16 @@ Change summary
 
 ### Tacticals
 
-| Tactical | Change                                     |
-|----------|--------------------------------------------|
-|  A-Wall  | Shield health reduced by 50% (1000 -> 500) |
+| Tactical     | Change                                     |
+|--------------|--------------------------------------------|
+|  A-Wall      | Shield health reduced by 50% (1000 -> 500) |
+|  Pulse blade | 50% faster recharge (8 -> 12)              |
+|  Holo pilot  | 50% faster recharge (8 -> 12)              |
 
 #### Notes
 
   * A-Wall can still tank a Kraber bullet, but not much more - lower HP should force the shield to be used more tactically, instead of being a camping tool. Lower HP also makes it so that the electric smoke is a convenient counter to it.
+  * Pulse blade and holo pilot cooldowns have been reduced from 25 seconds to about 16 seconds.
 
 ### Ordnances
 
