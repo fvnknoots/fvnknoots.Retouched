@@ -66,16 +66,18 @@ Change summary
 
 ### Ordnances
 
-| Ordnance       | Change                                                                     |
-|----------------|----------------------------------------------------------------------------|
-| Gravity star   | Pull time reduced by 33% (2.0 -> 1.33)                                     |
-| Electric smoke | Radius (both inner and outer) increased by 1 meter (50 -> 100, 210 -> 250) |
-| Arc grenade    | Radius (both inner and outer) increased by 1 meter (75 -> 125, 350 -> 400) |
+| Ordnance       | Change                                                                      |
+|----------------|-----------------------------------------------------------------------------|
+| Gravity star   | Pull time reduced by 33% (2.0 -> 1.33)                                      |
+| Electric smoke | Radius (both inner and outer) increased by 1 meter (50 -> 100, 210 -> 250)  |
+| Arc grenade    | Radius (both inner and outer) increased by 1 meter (75 -> 125, 350 -> 400)  |
+| Satchel        | Radius (both inner and outer) increased by 1 meter (120 -> 170, 250 -> 300) |
 
 #### Notes
 
   * Gravity star is still good if user aims more quickly, while being slightly less annoying for the victim.
   * Electric smoke and arc grenade have a slightly larger effect radius because their purpose is for area control, not direct damage. They could be higher, but increasing the size of the visual effect would require client mods.
+  * Satchel has a radius buff as well to make it more like the bomb it's supposed to be
 
 Development
 --------------------------------------------------------------------------------
