@@ -6,7 +6,7 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
         "Pulse blade/Holo pilot/Cloak: +50% faster recharge",
         "A-Wall: -50% shield health",
         "Gravity star: -33% pull time",
-        "Arc grenade and electric smoke: around +25% radius",
+        "Arc grenade, electric smoke and satchel: around +25% radius",
         "Melee: 70 damage"
     ],
     [
@@ -105,14 +105,19 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
         "Pull time: 2.0s -> 1.33s (-33%)"
     ],
     [
+        "Smoke",
+        "Inner radius: 50 -> 100 (1 -> 2 meters)",
+        "Outer radius: 210 -> 250 (4 -> 5 meters)"
+    ],
+    [
         "Arc",
         "Inner radius: 75 -> 125 (1.5 -> 2.5 meters)",
         "Outer radius: 350 -> 400 (7 -> 8 meters)"
     ],
     [
-        "Smoke",
-        "Inner radius: 50 -> 100 (1 -> 2 meters)",
-        "Outer radius: 210 -> 250 (4 -> 5 meters)"
+        "Satchel",
+        "Inner radius: 120 -> 170 (2.4 -> 3.4 meters)",
+        "Outer radius: 250 -> 300 (5 -> 6 meters)"
     ],
     [
         "Melee",
