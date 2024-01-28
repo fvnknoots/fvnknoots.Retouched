@@ -38,6 +38,7 @@ Change summary
 | R201       | 25 -> 17 (4 -> 6 BTK) | 17 (6 BTK) (_vanilla_) | 12 (9 BTK) (_vanilla_) |
 | Flatline   | 30 -> 20 (4 -> 5 BTK) | 20 (5 BTK) (_vanilla_) | 15 (7 BTK) (_vanilla_) |
 | Spitfire   | 35 -> 25 (3 -> 4 BTK) | 25 -> 20 (4 -> 5 BTK)  | 20 -> 17 (5 -> 6 BTK)  |
+| Mastiff    | 20 -> 17 (5 -> 6 BTK) | 12 -> 10 (9 -> 10 BTK) | -                      |
 | EVA-8      | 200 -> 150            | 10 (_vanilla_)         | -                      |
 | RE-45      | 20 -> 15 (5 -> 7 BTK) | 13 -> 12 (7 -> 9  BTK) | 9  -> 8 (12 -> 13 BTK) |
 | P2016      | 30 -> 20 (4 -> 5 BTK) | 20 -> 17 (5 -> 6  BTK) | 15 -> 13  (7 -> 8 BTK) |
