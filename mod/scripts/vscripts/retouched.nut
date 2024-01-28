@@ -5,7 +5,7 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
         "R201/R101/Flatline/Spitfire/L-STAR/Mastiff/EVA-8/RE-45/P2016: around -25% damage",
         "Pulse blade/Holo pilot/Cloak: +50% faster recharge",
         "A-Wall: -50% shield health",
-        "Gravity star: -33% pull time",
+        "Gravity star: -50% pull time",
         "Arc grenade, electric smoke and satchel: around +25% radius",
         "Melee: 70 damage"
     ],
@@ -112,7 +112,7 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
     ],
     [
         "Grav",
-        "Pull time: 2.0s -> 1.33s (-33%)"
+        "Pull time: 2.0s -> 1.0s (-50%)"
     ],
     [
         "Smoke",

@@ -70,7 +70,7 @@ Change summary
 
 | Ordnance       | Change(s)                                                                                                            |
 |----------------|----------------------------------------------------------------------------------------------------------------------|
-| Gravity star   | Pull time reduced by 33% (2.0 -> 1.33)                                                                               |
+| Gravity star   | Pull time reduced by 50% (2.0s -> 1.0s)                                                                              |
 | Electric smoke | Radius (both inner and outer) increased by 1 meter (50 -> 100, 210 -> 250), +33% faster recharge (18 -> 12 seconds)  |
 | Arc grenade    | Radius (both inner and outer) increased by 1 meter (75 -> 125, 350 -> 400)                                           |
 | Satchel        | Radius (both inner and outer) increased by 1 meter (120 -> 170, 250 -> 300)                                          |
