@@ -3,6 +3,7 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
         "Summary",
         "SMGs: around -50% damage",
         "R201/R101/Flatline/Spitfire/L-STAR/Mastiff/EVA-8/RE-45/P2016: around -25% damage",
+        "Grapple: 30 damage",
         "Pulse blade/Cloak: +50% faster recharge",
         "Holo pilot: +100% faster recharge",
         "A-Wall: -50% shield health",
@@ -94,6 +95,10 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
         "Far damage: 13 -> 12 (8 -> 9 bullets)"
         "Very far damage: 9 -> 8 (12 -> 13 bullets)"
 
+    ],
+    [
+        "Grapple",
+        "Damage: 0 -> 30"
     ],
     [
         "Pulse",
