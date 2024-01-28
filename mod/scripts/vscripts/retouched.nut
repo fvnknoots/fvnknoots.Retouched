@@ -117,7 +117,8 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
     [
         "Smoke",
         "Inner radius: 50 -> 100 (1 -> 2 meters)",
-        "Outer radius: 210 -> 250 (4 -> 5 meters)"
+        "Outer radius: 210 -> 250 (4 -> 5 meters)",
+        "Cooldown: 18s -> 12s (-33%)"
     ],
     [
         "Arc",
