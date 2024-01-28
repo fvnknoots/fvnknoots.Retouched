@@ -86,7 +86,7 @@ WeaponData
 		"ammo_min_to_fire"								"100"
 		"ammo_per_shot"									"100"
 		"ammo_stockpile_max"							"100"
-		"regen_ammo_refill_rate"						"5.5"
+		"regen_ammo_refill_rate"						"8" // CHANGE/BUFF: 5.5 -> 8 (18 -> 12 seconds)
 		"regen_ammo_refill_start_delay"					"0.0"
 
 		"enable_highlight_networking_on_creation"		"<KEEP_DEFAULT>"
