@@ -53,18 +53,17 @@ Change summary
 
 ### Tacticals
 
-| Tactical     | Change                                          |
-|--------------|-------------------------------------------------|
-|  A-Wall      | Shield health reduced by 50% (1000 -> 500)      |
-|  Pulse blade | 50% faster recharge (8 -> 12)                   |
-|  Cloak       | 50% faster recharge (10 -> 15), less brightness |
-|  Holo pilot  | 100% faster recharge (8 -> 16)                  |
+| Tactical     | Change                                     |
+|--------------|--------------------------------------------|
+|  A-Wall      | Shield health reduced by 50% (1000 -> 500) |
+|  Pulse blade | 50% faster recharge (8 -> 12)              |
+|  Cloak       | 50% faster recharge (10 -> 15)             |
+|  Holo pilot  | 100% faster recharge (8 -> 16)             |
 
 #### Notes
 
   * A-Wall can still tank a Kraber bullet, but not much more - lower HP should force the shield to be used more tactically, instead of being a camping tool. Lower HP also makes it so that the electric smoke is a convenient counter to it.
   * Pulse blade, cloak and holo pilot cooldowns have been reduced to encourage more usage
-  * Cloak additionally has less brightness than vanilla (`cloak_pilotBrightenAdd 0.04 -> 0.00`)
 
 ### Ordnances
 
