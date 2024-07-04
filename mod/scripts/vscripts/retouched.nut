@@ -1,3 +1,5 @@
+global function Retouched_Init
+
 global array< array<string> > RETOUCHED_CHANGELIST = [
     [
         "Summary",
@@ -136,3 +138,7 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
         "Damage: 100 -> 70"
     ]
 ]
+
+void function Retouched_Init() {
+    SetConVarFloat("cloak_pilotBrightenAdd", 0.00)
+}
