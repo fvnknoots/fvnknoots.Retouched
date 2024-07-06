@@ -9,10 +9,10 @@ Goals
   1. Not a "perfect" rebalance.
   2. Nerfing the top weapons a little, but leaving weaker/harder guns be so that players can still show off with them.
   3. Buffing weakest ordnances and tacticals a little, while leaving the strongest alone (except A-Wall).
-  4. Minimal changes.
-  5. Avoiding _scope creep_ which causes unnecessary changes to accumulate.
+  4. ~~Minimal changes.~~ (failed)
+  5. ~~Avoiding _scope creep_ which causes unnecessary changes to accumulate.~~ (failed)
 
-Constraints
+Design constraints
 --------------------------------------------------------------------------------
 
 For now:
@@ -37,6 +37,8 @@ Change summary
 | R101       | 25 -> 17 (4 -> 6 BTK) | 17 (6 BTK) (_vanilla_) | 12 (9 BTK) (_vanilla_) |
 | R201       | 25 -> 17 (4 -> 6 BTK) | 17 (6 BTK) (_vanilla_) | 12 (9 BTK) (_vanilla_) |
 | Flatline   | 30 -> 20 (4 -> 5 BTK) | 20 (5 BTK) (_vanilla_) | 15 (7 BTK) (_vanilla_) |
+| G2         | 40 -> 30 (3 -> 4 BTK) | 35 -> 30 (3 -> 4 BTK)  | -                      |
+| DMR        | 55 -> 45 (2 -> 3 BTK) | 55 -> 45 (2 -> 3 BTK)  | -                      |
 | Spitfire   | 35 -> 25 (3 -> 4 BTK) | 25 -> 20 (4 -> 5 BTK)  | 20 -> 17 (5 -> 6 BTK)  |
 | L-STAR     | 25 -> 20 (4 -> 5 BTK) | 18 -> 16 (6 -> 7 BTK)  | -                      |
 | Mastiff    | 20 -> 17 (5 -> 6 BTK) | 12 -> 10 (9 -> 10 BTK) | -                      |
@@ -48,6 +50,7 @@ Change summary
 #### Notes
 
   * SMGs and sidearms have decreased damage across all ranges.
+  * G2 and DMR have increased headshot multipliers to compensate for damage nerfs
   * ARs have near range damage decreased, but vanilla far ranges.
   * Melee now needs to be used on a slightly damaged enemy.
 

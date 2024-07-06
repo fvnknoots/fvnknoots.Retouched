@@ -3,6 +3,7 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
         "Summary",
         "SMGs: around -50% damage",
         "R201/R101/Flatline/Spitfire/L-STAR/Mastiff/EVA-8/RE-45/P2016: around -25% damage",
+        "G2/DMR: 1 more bullet to kill, increased headshot multiplier",
         "Pulse blade/Cloak: +50% faster recharge",
         "Holo pilot: +100% faster recharge",
         "A-Wall: -50% shield health",
@@ -59,6 +60,18 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
         "Near damage: 30 -> 20 (4 -> 5 bullets)",
         "Far damage: 20 (5 bullets) (vanilla)",
         "Very far damage: 15 (7 bullets) (vanilla)"
+    ],
+    [
+        "G2",
+        "Near damage: 40 -> 30 (3 -> 4 bullets)",
+        "Far damage: 35 -> 30 (3 -> 4 bullets)",
+        "Headshot multiplier: 1.5 -> 2.5"
+    ],
+    [
+        "DMR",
+        "Near damage: 55 -> 45 (2 -> 3 bullets)",
+        "Far damage: 55 -> 45 (2 -> 3 bullets)",
+        "Headshot multiplier: 2.0 -> 2.5"
     ],
     [
         "Spitfire",
